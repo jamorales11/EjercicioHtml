@@ -1,0 +1,5 @@
+table, tr, td, th,thead, tbody, col, colgroup
+{
+    border: 3px solid black; 
+    border-collapse: collapse;
+}
